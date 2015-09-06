@@ -22,12 +22,12 @@ The anonymous user cans registered for a new account or login with an existing o
 - Delete a post that created by himself
 
 **URL Pages function:**
-- http://example.com/ -> display list of all blog posts, this is the home page.
-- http://example.com/post/1 -> display blog post with id "1".
-- http://example.com/post/1/edit -> display form to allow editing of a blog post.
-- http://example.com/post/create -> display form to create post.
-- http://example.com/login -> display login form.
-- http://example.com/logout -> log user out and redirect to home page.
+- http://example.com/ : display list of all blog posts, this is the home page.
+- http://example.com/post/1 : display blog post with id "1".
+- http://example.com/post/1/edit : display form to allow editing of a blog post.
+- http://example.com/post/create : display form to create post.
+- http://example.com/login : display login form.
+- http://example.com/logout : log user out and redirect to home page.
 
 #Installation
 Download the source package as a zip format, extract the web files and put all into the server root, change the configuration of the database (host credentials and database name) from the configuration script (application/callback/connect.php), use the sql file included (basicblog.sql) to create the database using MySQL command tools or phpmyadmin interface  and set the server root to be pointed to the app main page (application/).
