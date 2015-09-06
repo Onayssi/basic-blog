@@ -21,7 +21,7 @@ The anonymous user cans registered for a new account or login with an existing o
 - Update an existing post
 - Delete a post that created by himself
 
-*** URL Pages function:***
+** URL Pages function:**
 - http://example.com/ -> display list of all blog posts, this is the home page.
 - http://example.com/post/1 -> display blog post with id "1".
 - http://example.com/post/1/edit -> display form to allow editing of a blog post.
@@ -32,7 +32,7 @@ The anonymous user cans registered for a new account or login with an existing o
 #Installation
 Download the source package as a zip format, extract the web files and put all into the server root, change the configuration of the database (host credentials and database name) from the configuration script (application/callback/connect.php), use the sql file included (basicblog.sql) to create the database using MySQL command tools or phpmyadmin interface  and set the server root to be pointed to the app main page (application/).
 The Medoo Library is used for this project, to handle the queries and access to the database. 
-Documentation is here  (http://medoo.in/doc).
+Documentation is available in the link below  (http://medoo.in/doc).
 
 #Copyright
 Copyright (c) 2010 - 2015 Mouhamad Ounayssi.<br>
