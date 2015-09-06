@@ -7,7 +7,7 @@ The blog displays all the posts for all users registered. Once logged, he cans a
 - PHP Version 5.2.X or greater
 - MySQL Database Driver
 - URL Rewrite mode must be enabled.
-- 
+
 # Details of Process
 The user must be logged in order to manage a posts. He cans view any view as an anonymous user if it's not logged.
 The anonymous user cans registered for a new account or login with an existing one. Each post must have a unique title, not duplicated. A dialog confirmation is enabled when the user try to delete a post, so he cans confirm or cancel the operation. Each page has a specific link to access the related template. The user cans logout any time during the process of the blog. 
