@@ -30,7 +30,7 @@ The anonymous user cans registered for a new account or login with an existing o
 - http://example.com/logout : log user out and redirect to home page.
 
 #Installation
-Download the source package as a zip format, extract the web files and put all into the server root, change the configuration of the database (host credentials and database name) from the configuration script (application/callback/connect.php), use the sql file included (basicblog.sql) to create the database using MySQL command tools or phpmyadmin interface  and set the server root to be pointed to the app main page (application/).
+Download the source package as a zip format, extract the web files and put all into the server root, change the configuration of the database (host credentials and database name) from the configuration script (application/callback/connect.php), use the sql file included (basicblog.sql) to create the database using MySQL command tools or phpmyadmin interface  and set the server root to be pointed to the app main page (application/). You must set the Base URL for the project by updating the BURL parameter (http://SERVER_NAME/PROJECT_FOLDER);
 The Medoo Library is used for this project, to handle the queries and access to the database. 
 Documentation is available in the link below  (http://medoo.in/doc).
 
