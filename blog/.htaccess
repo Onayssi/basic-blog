@@ -1,0 +1,16 @@
+RewriteEngine on
+Options +FollowSymlinks
+php_flag register_globals On
+rewritebase /Useful/assessments/more-group/
+RewriteRule ^[^\?]*(images/|css/|js/|inc/|callback/|pages/|heplers/)(.*)$ $1$2 [NC,L]
+
+Options -Indexes
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ index.php?q=$1 [L]
+
+
+
+
