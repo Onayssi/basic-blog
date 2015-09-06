@@ -1,7 +1,7 @@
 # basic-blog-posts
 A basic blog that allow a user to manage a posts, using PHP.
 # Synopsis:
-The blog display all the posts for all users registered. Once logged, he cans add new post, edit an existing one or delete a post created by himself. Only users that are logged-in can edit and post. Anonymous users can view the posts. Each post contains a title, a description that including a HTML data and a timestamp indicating the date/time of each post created.
+The blog displays all the posts for all users registered. Once logged, he cans add new post, edit an existing one or delete a post created by himself. Only users that are logged-in can edit and post. Anonymous users can view the posts. Each post contains a title, a description that including a HTML data and a timestamp indicating the date/time of each post created.
 # Pre-requisites
 - Apache Server, online host or local (XAMPP / WAMP / MAMP / LAMP)
 - PHP Version 5.2.X or greater
