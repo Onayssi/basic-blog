@@ -14,11 +14,13 @@ The anonymous user cans registered for a new account or login with an existing o
 
 **Anonymous user:** 
 - View any post
+
 **Registered user :** 
 - View any post
 - Create a new post
 - Update an existing post
 - Delete a post that created by himself
+
 *** URL Pages function:***
 - http://example.com/ -> display list of all blog posts, this is the home page.
 - http://example.com/post/1 -> display blog post with id "1".
