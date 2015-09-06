@@ -21,7 +21,7 @@ The anonymous user cans registered for a new account or login with an existing o
 - Update an existing post
 - Delete a post that created by himself
 
-** URL Pages function:**
+**URL Pages function:**
 - http://example.com/ -> display list of all blog posts, this is the home page.
 - http://example.com/post/1 -> display blog post with id "1".
 - http://example.com/post/1/edit -> display form to allow editing of a blog post.
