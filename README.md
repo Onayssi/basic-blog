@@ -35,6 +35,6 @@ The Medoo Library is used for this project, to handle the queries and access to 
 Documentation is available in the link below  (http://medoo.in/doc).
 
 #Copyright
-Copyright (c) 2010 - 2015 Mouhamad Ounayssi.<br>
+Copyright (c) 2010 - 2016 Mouhamad Ounayssi.<br>
 Blog: https://www.mouhamadounayssi.wordpress.com.
 
