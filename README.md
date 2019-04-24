@@ -1,5 +1,5 @@
 # basic-blog-posts
-A responsive basic blog that allow a user to manage a posts, using PHP.
+A responsive basic blog that allows users to manage posts, using PHP.
 # Synopsis:
 The blog displays all the posts for all users registered. Once logged, he cans add new post, edit an existing one or delete a post created by himself. Only users that are logged-in can edit and post. Anonymous users can view the posts. Each post contains a title, a description that including a HTML data and a timestamp indicating the date/time of each post created.
 # Pre-requisites
@@ -36,5 +36,5 @@ Documentation is available in the link below  (http://medoo.in/doc).
 
 # Copyright
 Copyright (c) 2010-2017 Mouhamad Ounayssi.<br>
-Blog: https://www.mouhamadounayssi.wordpress.com.
+Blog: https://www.mouhamadonayssi.wordpress.com.
 
